@@ -1,3 +1,6 @@
+to create venv go to foolder nlp pracs
+python -m venv venv
+venv\Scripts\activate
 
 Title-  Perform text pre-processing in NLP including tokenization, stop words removal, lemmatization, stemming, and POS tagging.
 
